@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!-- <Nullable>enable</Nullable> -->
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
@@ -12,7 +12,9 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SQLite" Version="6.0.3" />
-    <PA
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.3" />
+    
   </ItemGroup>
 
 </Project>
