@@ -60,7 +60,7 @@ namespace ContosoUniversity.Pages.Students
             //Student = await _context.Students.FindAsync(id);
             var student = await _context.Students.FindAsync(id);
 
-            if (Student == null)
+            if (Student ==* null)
             {
                 return NotFound();
             }

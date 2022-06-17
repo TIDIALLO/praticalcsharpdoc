@@ -8,25 +8,25 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPageMvc
 build_property.RootNamespace = RazorPageMvc
-build_property.ProjectDir = C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\RazorPageMvc\
+build_property.ProjectDir = c:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\RazorPageMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\RazorPageMvc
+build_property.MSBuildProjectDirectory = c:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\RazorPageMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/index.cshtml]
+[c:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/Shared/_Layout.cshtml]
+[c:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/Suppliers.cshtml]
+[c:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/Suppliers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/_ViewStart.cshtml]
+[c:/Users/aliou traoré/Desktop/code/cs10learn/PraticaalASPDonetCore/RazorPageMvc/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

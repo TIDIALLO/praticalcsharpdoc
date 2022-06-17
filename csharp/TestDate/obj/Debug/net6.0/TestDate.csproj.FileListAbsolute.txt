@@ -1,0 +1,15 @@
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\bin\Debug\net6.0\TestDate.exe
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\bin\Debug\net6.0\TestDate.deps.json
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\bin\Debug\net6.0\TestDate.runtimeconfig.json
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\bin\Debug\net6.0\TestDate.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\bin\Debug\net6.0\TestDate.pdb
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\refint\TestDate.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.pdb
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\TestDate.genruntimeconfig.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestDate\obj\Debug\net6.0\ref\TestDate.dll

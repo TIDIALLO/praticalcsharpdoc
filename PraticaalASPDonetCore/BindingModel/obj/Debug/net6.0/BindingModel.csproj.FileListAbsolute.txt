@@ -1,0 +1,8 @@
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.RazorAssemblyInfo.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\PraticaalASPDonetCore\BindingModel\obj\Debug\net6.0\BindingModel.RazorAssemblyInfo.cs

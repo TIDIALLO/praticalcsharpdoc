@@ -1,0 +1,15 @@
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\bin\Debug\net6.0\TestStringWork.exe
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\bin\Debug\net6.0\TestStringWork.deps.json
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\bin\Debug\net6.0\TestStringWork.runtimeconfig.json
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\bin\Debug\net6.0\TestStringWork.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\bin\Debug\net6.0\TestStringWork.pdb
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\refint\TestStringWork.dll
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.pdb
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\TestStringWork.genruntimeconfig.cache
+C:\Users\aliou traoré\Desktop\code\cs10learn\csharp\TestStringWork\obj\Debug\net6.0\ref\TestStringWork.dll
